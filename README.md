@@ -1,5 +1,5 @@
-# Exploring-Diabetes-data-set-by-Two-different-Models
-Perform sklearn logistic regression versus my logistic regression from scratch
+# A-Comparative-Analysis-of-Two-Predictive-Models
+Unlocking the Secrets of Diabetes through Machine Learning Techniques
 - Reading and examining the data set found that all column types are either float or integer. This will make things easier for us, and when I checked for zeros, it looks like there are a bunch of zeros in five columns out of eight, so I filled those zeros with the mean of each column due to data lack
 - When drawing the seaborn heatmap to show the correlated features in the data, it turns out that we will be using all the data columns
 - <img src = "https://user-images.githubusercontent.com/85246622/207991503-42808772-ce41-4ba9-a6d4-0fa921b2d40c.png" width = "400" height = "400" />
